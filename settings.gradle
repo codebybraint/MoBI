@@ -1,0 +1,4 @@
+include ':core'
+include ':kitchen'
+include ':cake-order'
+rootProject.name = "Cake Order"

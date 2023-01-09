@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Dekorasi</string>
+    <string name="scan_qr">Scan QR</string>
+    <string name="kitchen_user">kitchen</string>
+    <string name="kitchen_pass">kitchen7890</string>
+
+    <string name="action_rotate">Rotate</string>
+    <string name="action_refresh">Refresh</string>
+</resources>

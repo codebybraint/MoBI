@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "839886752657",
+    "project_id": "cakeorder-kitchen",
+    "storage_bucket": "cakeorder-kitchen.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:839886752657:android:4666fe2ed86df9d0a26830",
+        "android_client_info": {
+          "package_name": "com.atiga.cakeorder.kitchen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "839886752657-coq7qqd9vig08ma3v98b5iv81ha4pq7v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEmH_1I1sLeApPoc64dv_eoTPO_R2H634"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "839886752657-coq7qqd9vig08ma3v98b5iv81ha4pq7v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
